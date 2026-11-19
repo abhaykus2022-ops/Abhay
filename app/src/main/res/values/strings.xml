@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SlateCut AI</string>
+    <string name="nav_projects">Projects</string>
+    <string name="nav_studio">Studio</string>
+    <string name="nav_ai_director">AI Director</string>
+    <string name="hero_title">Cinematic AI Video Studio</string>
+    <string name="hero_subtitle">Auto-detect viral highlights, craft Shorts or long-form cuts, and render HD visuals with zero clip limits.</string>
+    <string name="cta_import_video">Import Video</string>
+    <string name="cta_analyze_ai">Analyze Best Moments</string>
+    <string name="cta_generate_more">Generate More Clips</string>
+    <string name="cta_export_hd">Export HD</string>
+    <string name="empty_projects_title">Your Midnight Slate Studio awaits</string>
+    <string name="empty_projects_body">Pick any gameplay, vlog, or raw video to unlock AI highlight detection, 9:16 Shorts framing, and cinematic grading.</string>
+    <string name="empty_studio_title">No video loaded in Studio</string>
+    <string name="empty_studio_body">Import a video from your device or choose an existing project from the Projects tab to start clipping.</string>
+    <string name="ai_director_subtitle">Multi-turn creative &amp; technical problem solver</string>
+    <string name="high_thinking_label">Deep Thinking</string>
+</resources>

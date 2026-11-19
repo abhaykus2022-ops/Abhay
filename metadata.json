@@ -1,0 +1,6 @@
+{
+  "name": "SlateCut AI",
+  "description": "AI-powered video clipping and cinematic editing studio for YouTube Shorts and long-form creators with Gemini semantic highlight detection and High-Thinking AI Director.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
